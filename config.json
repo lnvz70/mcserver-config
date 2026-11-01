@@ -6,8 +6,6 @@
   "version": "1.21.1",
   "loader": "neoforge",
   "mods": [
-    { "name": "sodium-0.5.8.jar", "url": "https://modrinth.com/mod/sodium/version/..." },
-    { "name": "fabric-api-0.92.0.jar", "url": "https://www.curseforge.com/.../download/..." }
   ],
   "season": {
     "number": 1,
