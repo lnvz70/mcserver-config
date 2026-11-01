@@ -3,7 +3,7 @@
     "ip": "shrimp-villas.tun.ply.gg",
     "port": 25565
   },
-  "version": "1.20.4",
+  "version": "1.21.1",
   "loader": "neoforge",
   "mods": [
     { "name": "sodium-0.5.8.jar", "url": "https://modrinth.com/mod/sodium/version/..." },
